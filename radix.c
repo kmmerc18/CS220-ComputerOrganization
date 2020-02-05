@@ -11,7 +11,7 @@ int main() {
 		printf("%x\n", b);	// x format specifier
 		printf("%X\n", b);
 		
-		// numbers that start iwth a leading 0 are in base
+		// numbers that start with a leading 0 are in base
 		// 8, aka octal
 		int z = 0125;
 		// printf("z is %d\n", z);
